@@ -16,6 +16,10 @@ el programa puede contar el numero total de palabras mandadas en un archivo, tam
 para generar el proyecto mencionado se utilizo la herramienta HashSet y
 HashMap que tiene como ventaja insertar valores internamente,
 extraer valores mediante su identificador, ayudandonos de una manera sencilla 
+Tambien se utilizo la clase scanner para poder extraer la informacion recibida durante la ejecucion
+ayudando la separacion, junto con la ayuda de delimitadores que nos permite omitir caracteres o letras que no
+corresponden a una palabra.
+
 
 -------------
 
