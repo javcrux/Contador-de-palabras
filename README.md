@@ -4,15 +4,18 @@ CONTADOR DE PALABRAS
 
 #### <i class="icon-folder-open"></i>Descripcion del proyecto
 -------------
-La realizacion de este proyecto fue con el unico fin de aprender el manejo de archivos, asi como de lectura y escritura, no quedar limitados con la parte de la consola unicamente, si no que mandar el texto en un archivo con extención txt.
-Puede contar el numero total de palabras mandadas en un archivo,  elimina todas las palabras auxiliares que existen un archivo,
+La realizacion de este proyecto fue con el unico fin de aprender el manejo de archivos, asi como de lectura y escritura, no quedar limitados con la parte de la consola unicamente, poder mandar el texto en un archivo con extención .txt
+el programa puede contar el numero total de palabras mandadas en un archivo, tambien elimina todas las palabras auxiliares que existen un archivo y ordenar las palabras con el numero de veces repetidas.
 
 
 ----------
 #### <i class="icon-file"></i> Tecnologias que se emplearon
 -------------
 
-las tecnologias que se emplearon fue el manejo de hash map, el hash set, listas
+
+para generar el proyecto mencionado se utilizo la herramienta HashSet y
+HashMap que tiene como ventaja insertar valores internamente,
+extraer valores mediante su identificador, ayudandonos de una manera sencilla 
 
 -------------
 #### <i class="icon-refresh"></i>Forma de uso
