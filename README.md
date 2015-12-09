@@ -18,9 +18,8 @@ HashMap que tiene como ventaja insertar valores internamente,
 extraer valores mediante su identificador, ayudandonos de una manera sencilla 
 
 -------------
-#### <i class="icon-refresh"></i>Forma de uso
--------------
-#### <i class="icon-upload"></i> Forma de cargar el proyecto
+
+#### <i class="icon-upload"></i> Forma de uso y forma de cargar el proyecto
 
 para poder utilizar el proyecto se debe abrir una terminal de linux y
 acceder a la carpeta en donde se encuentran ubicada los archivos como
