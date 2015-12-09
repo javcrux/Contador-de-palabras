@@ -70,16 +70,16 @@ Total de palabras sin auxiliares: 94
 
 --- las 10 palabras mas comunes ----
 
-1.- la 11
-2.- de 10
-3.- en 9
-4.- datos 7
-5.- o 7
-6.- los 5
-7.- un 5
-8.- dato 4
-9.- el 4
-10.- información 4
+1. la 11
+2. de 10
+3. en 9
+4. datos 7
+5. o 7
+6. los 5
+7. un 5
+8. dato 4
+9. el 4
+10. información 4
 
 
 --- Conteo de palabras de mayor a menor ----
