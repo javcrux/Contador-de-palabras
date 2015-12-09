@@ -21,6 +21,23 @@ extraer valores mediante su identificador, ayudandonos de una manera sencilla
 #### <i class="icon-refresh"></i>Forma de uso
 -------------
 #### <i class="icon-upload"></i> Forma de cargar el proyecto
+
+para poder utilizar el proyecto se debe abrir una terminal de linux y
+acceder a la carpeta en donde se encuentran ubicada los archivos como
+son el .txt en donde se encuentra guardado el texto a procesar, el programa
+Palabra.java y stopwords.txt en donde se encuentra guardada todas la palabras 
+auxiliares que  no se quieren tomar en cuenta.
+
+ya ubicado los archivos escribir el comando de compilacion
+
+ - javac Palabra.java
+
+y ejecutar el archivo
+
+ - java Palabra texto.txt
+
+y finalmente revisar el reporte.txt que nos genera en la misma carpeta
+
 #### <i class="icon-refresh"></i>Ejemplo
 
 
@@ -65,7 +82,7 @@ Total de palabras sin auxiliares: 94
 
 -------------
 
-En el archivo Reporte que nos genera de forma automatica nos genera los siguientes datos:
+En el archivo Reporte que nos crea de forma automatica nos genera los siguientes datos:
 
 Total de palabras: 167
 
