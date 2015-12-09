@@ -1,0 +1,13 @@
+Un dato es una representación simbólica (numérica, alfabética, algorítmica, espacial, etc.) de un atributo o variable cuantitativa o cualitativa.
+Los datos describen hechos empíricos, sucesos y entidades. Es un valor o referente que recibe el computador por diferentes medios, 
+los datos representan la información que el programador manipula en la construcción de una solución o en el desarrollo de un algoritmo.
+Los datos aisladamente pueden no contener información humanamente relevante. 
+Sólo cuando un conjunto de datos se examina conjuntamente a la luz de un enfoque,
+hipótesis o teoría se puede apreciar la información contenida en dichos datos. 
+Los datos pueden consistir en números, estadísticas o proposiciones descriptivas. 
+Los datos convenientemente agrupados, estructurados e interpretados se consideran que son la
+base de la información humanamente relevante que se pueden utilizar en la toma de decisiones, 
+la reducción de la incertidumbre o la realización de cálculos. Es de empleo muy común en el ámbito informático y,
+en general, prácticamente en cualquier investigación científica.
+Dato dato dAto
+ la agrupados en
